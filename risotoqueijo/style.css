@@ -38,6 +38,17 @@ h2{
     padding: 10px;
 }
 
+p{
+    text-align: justify;
+    text-indent: 30px;
+    padding: 2px 0px;
+    line-height: 1.5em;
+}
+
+span{
+    text-decoration: underline;
+}
+
 .fotos{
     border-radius: 10px;
     margin: auto;

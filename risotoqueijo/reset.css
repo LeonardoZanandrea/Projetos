@@ -16,13 +16,3 @@ ul{
 img{
     max-width: 100%;
 }
-p{
-    text-align: justify;
-    text-indent: 30px;
-    padding: 2px 0px;
-    line-height: 1.5em;
-}
-
-span{
-    text-decoration: underline;
-}
